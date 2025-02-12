@@ -54,6 +54,8 @@ Two key datasets are used in this analysis:
 
 ---
 
+## 🏃 Run
+
 ## 🔍 Key Findings
 
 - Significant shifts in sentiment before and after major events.
@@ -62,14 +64,3 @@ Two key datasets are used in this analysis:
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-├── data/
-│   ├── evaluation/
-│   ├── experiments/
-│   ├── notebooks/
-│   ├── papers/
-│   └── social_network/
-├── scripts/
-├── README.md
