@@ -54,6 +54,8 @@ Two key datasets are used in this analysis:
 
 ---
 
+## 📖 Runnig the data
+
 ## 🔍 Key Findings
 
 - Significant shifts in sentiment before and after major events.
