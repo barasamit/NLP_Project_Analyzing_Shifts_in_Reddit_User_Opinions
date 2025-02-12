@@ -54,7 +54,7 @@ Two key datasets are used in this analysis:
 
 ---
 
-## 📖 Runnig the data
+## 🏃 Run
 
 ## 🔍 Key Findings
 
