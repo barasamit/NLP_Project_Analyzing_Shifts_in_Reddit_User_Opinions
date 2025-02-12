@@ -54,9 +54,16 @@ Two key datasets are used in this analysis:
 
 ---
 
-## 🏃 Run
-- Preprocessing Reddit Data: Run clean_comments_and_submissions.py then filter the data by using filter_top_reddit_posts.py
-- Evaluation: Use reddit_user_stance_analysis.py to create all the plots. 
+## 🏃 Running the Pipeline
+
+### Steps:
+
+1. **Preprocessing Reddit Data**  
+   - Execute `clean_comments_and_submissions.py` to clean the dataset.  
+   - Apply filtering using `filter_top_reddit_posts.py` to refine the data.
+
+2. **Evaluation**  
+   - Run `reddit_user_stance_analysis.py` to generate all relevant plots.  
 
 ## 🔍 Key Findings
 
