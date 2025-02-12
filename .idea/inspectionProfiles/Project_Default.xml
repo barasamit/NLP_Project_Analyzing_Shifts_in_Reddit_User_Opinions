@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="49" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="editdistance" />
+            <item index="1" class="java.lang.String" itemvalue="lru-dict" />
+            <item index="2" class="java.lang.String" itemvalue="jieba" />
+            <item index="3" class="java.lang.String" itemvalue="nltk" />
+            <item index="4" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="5" class="java.lang.String" itemvalue="bert-score" />
+            <item index="6" class="java.lang.String" itemvalue="language_tool_python" />
+            <item index="7" class="java.lang.String" itemvalue="flair" />
+            <item index="8" class="java.lang.String" itemvalue="datasets" />
+            <item index="9" class="java.lang.String" itemvalue="click" />
+            <item index="10" class="java.lang.String" itemvalue="pandas" />
+            <item index="11" class="java.lang.String" itemvalue="pinyin" />
+            <item index="12" class="java.lang.String" itemvalue="PySocks" />
+            <item index="13" class="java.lang.String" itemvalue="num2words" />
+            <item index="14" class="java.lang.String" itemvalue="pycld2" />
+            <item index="15" class="java.lang.String" itemvalue="word2number" />
+            <item index="16" class="java.lang.String" itemvalue="OpenHowNet" />
+            <item index="17" class="java.lang.String" itemvalue="lemminflect" />
+            <item index="18" class="java.lang.String" itemvalue="terminaltables" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>
