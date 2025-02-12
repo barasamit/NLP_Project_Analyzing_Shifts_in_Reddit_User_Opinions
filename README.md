@@ -63,7 +63,10 @@ Two key datasets are used in this analysis:
    - Apply filtering using `filter_top_reddit_posts.py` to refine the data.
 
 2. **Evaluation**  
-   - Run `reddit_user_stance_analysis.py` to generate all relevant plots.  
+   - Run `reddit_user_stance_analysis.py` to generate all relevant plots.
+  
+### MLM train:
+1. run notebook from notebook folder
 
 ## 🔍 Key Findings
 
