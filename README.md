@@ -66,7 +66,7 @@ Two key datasets are used in this analysis:
    - Run `reddit_user_stance_analysis.py` to generate all relevant plots.
   
 ### MLM train:
-1. run notebook from notebook folder
+   - Run the notebook of 'NLP_Project.ipynb' using the train and test data that located in 'data' directory.
 
 ## 🔍 Key Findings
 
